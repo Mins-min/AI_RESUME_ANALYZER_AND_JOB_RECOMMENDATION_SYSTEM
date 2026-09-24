@@ -1,0 +1,29 @@
+Role: Machine Learning Engineer
+
+A Machine Learning Engineer develops, trains, evaluates and deploys machine learning models.
+
+Important skills:
+Python
+Machine Learning
+Scikit-learn
+Pandas
+NumPy
+TensorFlow
+FastAPI
+Docker
+Git
+
+Typical responsibilities:
+Build machine learning models.
+Process and analyze datasets.
+Evaluate model performance.
+Create APIs for machine learning models.
+Deploy machine learning applications.
+
+Recommended learning:
+Python for Machine Learning
+Scikit-learn
+Model deployment
+FastAPI
+Docker
+MLOps

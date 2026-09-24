@@ -1,0 +1,27 @@
+Machine Learning Learning Resource
+
+Machine Learning allows computers to learn patterns from data and make predictions or decisions.
+
+What to learn:
+- Supervised learning
+- Unsupervised learning
+- Regression
+- Classification
+- Clustering
+- Training and testing data
+- Feature engineering
+- Model evaluation
+- Overfitting and underfitting
+- Cross-validation
+
+Important tools:
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+
+For AI and ML roles:
+Machine Learning is a core skill for Machine Learning Engineers, AI Engineers and Data Scientists.
+
+Recommended practice:
+Work with datasets and build simple regression and classification models using Scikit-learn.

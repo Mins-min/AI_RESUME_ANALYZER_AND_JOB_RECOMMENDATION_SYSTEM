@@ -1,0 +1,29 @@
+Role: NLP Engineer
+
+An NLP Engineer develops systems that process and understand human language.
+
+Important skills:
+Python
+NLP
+Transformers
+Hugging Face
+LangChain
+LLM
+Machine Learning
+PyTorch
+Git
+
+Typical responsibilities:
+Process text data.
+Build NLP models.
+Work with transformers.
+Develop language-based applications.
+Build LLM applications.
+
+Recommended learning:
+NLP
+Transformers
+Hugging Face
+LLMs
+LangChain
+RAG

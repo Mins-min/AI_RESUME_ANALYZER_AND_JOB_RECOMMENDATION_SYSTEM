@@ -1,0 +1,29 @@
+Role: Data Analyst
+
+A Data Analyst works with data to discover useful patterns and create reports and visualizations.
+
+Important skills:
+Python
+SQL
+Excel
+Pandas
+NumPy
+Power BI
+Tableau
+Statistics
+Data Visualization
+
+Typical responsibilities:
+Clean and analyze datasets.
+Write SQL queries.
+Create dashboards.
+Generate reports.
+Communicate data-driven insights.
+
+Recommended learning:
+Python
+SQL
+Pandas
+Statistics
+Power BI
+Data Visualization

@@ -1,0 +1,11 @@
+Test ID,Test Case,Input,Expected Result,Actual Result,Status
+TC01,PDF Resume Upload,Valid PDF resume,Resume text should be extracted,Resume text extracted,Pass
+TC02,DOCX Resume Upload,Valid DOCX resume,Resume text should be extracted,Resume text extracted,Pass
+TC03,Skill Extraction,Resume containing technical skills,Skills should be identified,Skills identified correctly,Pass
+TC04,Job Role Matching,Valid resume,Job roles should be ranked by match score,Top roles generated,Pass
+TC05,Top 3 Recommendations,Valid resume,Three suitable roles should be displayed,Three roles displayed,Pass
+TC06,Skill Gap Analysis,Resume with missing skills,Missing skills should be identified,Missing skills displayed,Pass
+TC07,RAG Roadmap,Resume with missing skills,Learning roadmap should be generated,Roadmap generated successfully,Pass
+TC08,FastAPI Resume Analysis,DOCX resume uploaded through API,API should return skills and top roles,HTTP 200 response received,Pass
+TC09,Invalid File Type,Unsupported file,Application should reject unsupported format,Unsupported file handled,Pass
+TC10,Empty Resume,Empty resume file,System should handle resume without crashing,System handles empty input,Pass

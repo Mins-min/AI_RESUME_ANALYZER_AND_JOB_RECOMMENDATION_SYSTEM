@@ -1,0 +1,30 @@
+Role: AI Engineer
+
+An AI Engineer develops applications using artificial intelligence, machine learning and generative AI.
+
+Important skills:
+Python
+Machine Learning
+Deep Learning
+LLM
+RAG
+LangChain
+APIs
+FastAPI
+Git
+
+Typical responsibilities:
+Develop AI applications.
+Integrate large language models.
+Build RAG systems.
+Create APIs for AI applications.
+Work with machine learning models.
+
+Recommended learning:
+Machine Learning
+Deep Learning
+LLMs
+LangChain
+RAG
+Vector Databases
+FastAPI

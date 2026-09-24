@@ -1,0 +1,20 @@
+Python Learning Resource
+
+Python is a programming language widely used in data analysis, machine learning, artificial intelligence and backend development.
+
+What to learn:
+- Python syntax and basic programming
+- Variables and data types
+- Conditions and loops
+- Functions
+- Lists, tuples, dictionaries and sets
+- File handling
+- Object-oriented programming
+- NumPy and Pandas basics
+- Working with APIs
+
+For AI and machine learning:
+Learn Python before moving to libraries such as NumPy, Pandas and Scikit-learn.
+
+Recommended practice:
+Build small Python programs and solve programming problems regularly.

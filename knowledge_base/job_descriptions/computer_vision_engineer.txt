@@ -1,0 +1,30 @@
+Role: Computer Vision Engineer
+
+A Computer Vision Engineer develops systems that understand images and videos.
+
+Important skills:
+Python
+OpenCV
+CNN
+YOLO
+Deep Learning
+TensorFlow
+PyTorch
+NumPy
+Git
+
+Typical responsibilities:
+Process images and videos.
+Develop computer vision models.
+Train deep learning models.
+Perform object detection.
+Build image-based applications.
+
+Recommended learning:
+OpenCV
+CNN
+Deep Learning
+YOLO
+PyTorch
+TensorFlow
+Object Detection

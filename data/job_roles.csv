@@ -1,0 +1,11 @@
+role,required_skills,description
+Data Analyst,"Python,SQL,Excel,Pandas,NumPy,Power BI,Tableau,Statistics,Data Visualization","Analyze data and create insights, reports, and dashboards."
+Machine Learning Engineer,"Python,Machine Learning,Scikit-learn,Pandas,NumPy,TensorFlow,FastAPI,Docker,Git","Build and deploy machine learning models."
+AI Engineer,"Python,Machine Learning,Deep Learning,LLM,RAG,LangChain,APIs,FastAPI,Git","Develop AI applications using machine learning and large language models."
+NLP Engineer,"Python,NLP,Transformers,Hugging Face,LangChain,LLM,Machine Learning,PyTorch,Git","Develop systems that process and understand human language."
+Computer Vision Engineer,"Python,OpenCV,CNN,YOLO,Deep Learning,TensorFlow,PyTorch,NumPy,Git","Develop applications for image and video understanding."
+Data Scientist,"Python,Pandas,NumPy,Scikit-learn,Machine Learning,Statistics,SQL,Matplotlib,Power BI","Use statistical and machine learning techniques to solve data problems."
+Python Developer,"Python,FastAPI,Django,Flask,SQL,REST API,Git,GitHub,Docker","Develop backend applications and APIs using Python."
+Backend Developer,"Python,FastAPI,Django,REST API,SQL,PostgreSQL,Docker,Git,GitHub","Design and develop server-side applications."
+Cloud Engineer,"Python,AWS,Azure,Docker,Kubernetes,Linux,Git,CI/CD,Terraform","Build and maintain cloud infrastructure and deployments."
+AI/ML Intern,"Python,Machine Learning,Pandas,NumPy,Scikit-learn,SQL,Git,Statistics","Apply AI and machine learning techniques to practical problems."

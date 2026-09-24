@@ -1,0 +1,21 @@
+SQL Learning Resource
+
+SQL (Structured Query Language) is used to store, retrieve and analyze data in relational databases.
+
+What to learn:
+- Basic SQL syntax
+- SELECT statements
+- WHERE conditions
+- ORDER BY
+- GROUP BY
+- Aggregate functions
+- JOIN operations
+- Subqueries
+- INSERT, UPDATE and DELETE
+- Database concepts
+
+For data-related roles:
+SQL is important for Data Analysts, Data Scientists and Backend Developers.
+
+Recommended practice:
+Practice writing SQL queries using sample datasets and solve problems involving filtering, grouping and joining data.

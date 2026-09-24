@@ -1,0 +1,24 @@
+FastAPI Learning Resource
+
+FastAPI is a Python web framework used to build fast and modern APIs.
+
+What to learn:
+- API basics
+- HTTP methods
+- GET and POST requests
+- API endpoints
+- Request and response data
+- JSON
+- Query parameters
+- Path parameters
+- API validation
+- Connecting machine learning models to APIs
+
+For AI and ML applications:
+FastAPI can be used to create an API around a machine learning model so that other applications can send data and receive predictions.
+
+For this project:
+FastAPI can provide an API endpoint that accepts resume-related information and returns analysis results.
+
+Recommended practice:
+Build a simple FastAPI application with a GET endpoint and then create a POST endpoint that accepts data and returns a prediction or analysis.

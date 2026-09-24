@@ -1,0 +1,28 @@
+LangChain Learning Resource
+
+LangChain is a framework for developing applications that use large language models.
+
+What to learn:
+- LangChain documents
+- Document loaders
+- Text splitters
+- Embeddings
+- Vector stores
+- Retrievers
+- Prompt templates
+- LLM integration
+- RAG pipelines
+
+Important concepts:
+A document loader loads information from files.
+A text splitter divides large documents into smaller chunks.
+Embeddings convert text into numerical representations.
+A vector store stores embeddings and enables similarity search.
+A retriever finds relevant information from the knowledge base.
+An LLM generates the final response using the retrieved information.
+
+For AI applications:
+LangChain can be used to connect document processing, retrieval and language models into a complete RAG application.
+
+Recommended practice:
+Build a simple question-answering application using LangChain, a vector database and an LLM.

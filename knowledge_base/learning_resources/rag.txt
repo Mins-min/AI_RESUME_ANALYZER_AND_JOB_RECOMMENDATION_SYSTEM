@@ -1,0 +1,28 @@
+RAG Learning Resource
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with a language model.
+
+A RAG system retrieves relevant information from a knowledge base and provides it to a language model so that the model can generate an answer using that information.
+
+What to learn:
+- Documents and text extraction
+- Text splitting and chunking
+- Embeddings
+- Vector databases
+- Similarity search
+- Retrievers
+- Prompt construction
+- Large Language Models
+- LangChain
+
+Important tools:
+- LangChain
+- FAISS
+- Google Gemini
+- Python
+
+For AI applications:
+RAG is useful for applications that need to answer questions using specific documents or a knowledge base.
+
+Recommended practice:
+Build a small RAG application that loads documents, creates embeddings, stores them in a vector database, retrieves relevant information and generates an answer using an LLM.

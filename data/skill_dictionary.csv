@@ -1,0 +1,54 @@
+skill,category
+Python,Programming
+Java,Programming
+C,Programming
+C++,Programming
+C#,Programming
+JavaScript,Programming
+SQL,Database
+MySQL,Database
+PostgreSQL,Database
+MongoDB,Database
+Pandas,Data Science
+NumPy,Data Science
+Matplotlib,Data Visualization
+Seaborn,Data Visualization
+Power BI,Data Visualization
+Tableau,Data Visualization
+Excel,Data Analysis
+Statistics,Data Science
+Machine Learning,Machine Learning
+Deep Learning,Machine Learning
+Scikit-learn,Machine Learning
+TensorFlow,Machine Learning
+PyTorch,Machine Learning
+NLP,AI
+Natural Language Processing,AI
+Computer Vision,AI
+OpenCV,Computer Vision
+CNN,Deep Learning
+YOLO,Computer Vision
+Transformers,NLP
+Hugging Face,NLP
+LLM,Generative AI
+Generative AI,Generative AI
+RAG,Generative AI
+LangChain,Generative AI
+FAISS,Generative AI
+Embeddings,Generative AI
+FastAPI,Backend
+Django,Backend
+Flask,Backend
+REST API,Backend
+API,Backend
+Docker,DevOps
+Kubernetes,DevOps
+AWS,Cloud
+Azure,Cloud
+Google Cloud,Cloud
+Linux,Operating System
+Git,Tools
+GitHub,Tools
+CI/CD,DevOps
+Terraform,DevOps
+MLflow,MLOps
