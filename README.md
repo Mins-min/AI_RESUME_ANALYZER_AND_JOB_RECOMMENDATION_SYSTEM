@@ -1,5 +1,40 @@
 # AI Resume Analyzer and Job Recommendation System
 
+# AI Resume Analyzer and Job Recommendation System
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_URL_HERE)
+
+An intelligent, modular web application designed to help job seekers evaluate their resumes, match with ideal job roles, uncover exact skill gaps, and receive personalized upskilling roadmaps.
+
+## 🚀 Live Demo
+* **Web Application:** [Access the Streamlit App Here](YOUR_STREAMLIT_URL_HERE)
+
+---
+
+## 🛠️ Tech Stack & Tools
+* **Python** (Core backend & logic)
+* **Streamlit** (Interactive web interface & cloud deployment)
+* **LangChain & Google Gemini AI** (LLM-powered text extraction, matching, and insights)
+* **FAISS** (Vector similarity search and retrieval)
+* **Pandas / NumPy** (Data processing and skill dictionaries)
+
+---
+
+## 📂 Project Architecture & Components
+
+```text
+├── sample_resumes/            # Sample PDF resumes for testing
+│   ├── sample_data_scientist.pdf
+│   └── sample_fullstack_dev.pdf
+├── tests/                     # Automated test suites
+├── app.py                     # Main Streamlit application interface
+├── resume_parser.py           # Extracts and normalizes raw text from PDFs/DOCX
+├── skill_extractor.py         # Maps text against technical skill databases
+├── job_matcher.py             # Computes percentage match scores and ranks roles
+├── roadmap_generator.py       # Generates tailored upskilling roadmaps
+├── report_generator.py        # Exports professional structured summary reports
+└── requirements.txt           # Project dependencies
+
 An intelligent, full-stack career development platform powered by Python, Streamlit, LangChain, FAISS, and Google Gemini AI. This application parses resumes, extracts technical and soft skills, matches candidates with ideal job roles using semantic search and machine learning, generates personalized skill-gap roadmaps, and features an interactive RAG chatbot for career mentoring.
 
 ---
