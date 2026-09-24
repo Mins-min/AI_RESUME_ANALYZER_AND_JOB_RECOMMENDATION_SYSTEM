@@ -21,14 +21,20 @@ st.set_page_config(
 
 # --- Helper Functions for File Processing ---
 def extract_text_from_pdf(uploaded_file):
-    reader = PdfReader(uploaded_file)
-    text = ""
-    for page in reader.pages:
-        extracted = page.extract_text()
-        if extracted:
-            text += extracted + "\n"
-    return text
-
+    try:
+        # If Streamlit uploaded file is passed, wrap it or read bytes
+        reader = PdfReader(uploaded_file)
+        text = ""
+        for page in reader.pages:
+            text += page.extract_text() or ""
+        return text
+    except Exception as e:
+        # Fallback for plain text files accidentally named .pdf or truncated streams
+        try:
+            uploaded_file.seek(0)
+            return uploaded_file.read().decode("utf-8", errors="ignore")
+        except Exception:
+            return f"Error reading PDF: {str(e)}"
 def extract_text_from_docx(uploaded_file):
     doc = Document(uploaded_file)
     text = ""
