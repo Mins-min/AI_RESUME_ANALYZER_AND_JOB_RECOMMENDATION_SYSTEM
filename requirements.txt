@@ -13,3 +13,4 @@ langchain-text-splitters
 langchain-google-genai
 faiss-cpu
 python-dotenv
+reportlab
