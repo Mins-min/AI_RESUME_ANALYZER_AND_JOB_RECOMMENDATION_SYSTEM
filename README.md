@@ -1,7 +1,5 @@
 # AI Resume Analyzer and Job Recommendation System
 
-# AI Resume Analyzer and Job Recommendation System
-
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_URL_HERE)
 
 An intelligent, modular web application designed to help job seekers evaluate their resumes, match with ideal job roles, uncover exact skill gaps, and receive personalized upskilling roadmaps.
